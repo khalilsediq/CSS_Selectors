@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   background-color: #d3d3d3;
+}
+@font-face{
+    font-family: "karla";
+    src: url("./Fonts/Karla-VariableFont_wght.ttf");
+}
+html{
+    font-family: karla;
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+#main-title{
+    font-size: 4rem;
+    font-weight: bold;;
+    background-color: #ffe4e1;
+    color: #8b0000;
+    margin: 20px 8px;
+    padding: 2px;
+}
