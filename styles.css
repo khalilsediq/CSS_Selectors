@@ -22,4 +22,42 @@ html{
     color: #8b0000;
     margin: 20px 8px;
     padding: 2px;
+    border-radius: 10px;
+}
+.intro-paragraph{
+    font-size: 2.0rem;
+    margin: 20px 8px;
+    padding: 2px;
+    color: #939599;
+    
+}
+
+
+.nav-link{
+    background-color: #ffffe0;
+    color: #5b9e50;
+    font-weight: bold;
+    /* margin: 40px 40px; */
+}
+nav ul {
+    list-style: disc;
+    margin-left: 20px;
+    margin: 20px 40px;
+    font-size: 1.9rem;
+}
+.content-paragraph{
+    font-size: 2.0rem;
+    margin: 20px 8px;
+    padding: 2px;
+    color: #939599;
+}
+.color-box{
+    background-color: #fffff0;
+    margin: 20px 8px;
+}
+.color-box p{
+    font-size: 2.0rem;
+    /* margin: 20px 8px; */
+    padding: 5px;
+    color: #e3b047;
 }
