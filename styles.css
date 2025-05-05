@@ -54,10 +54,17 @@ nav ul {
 .color-box{
     background-color: #fffff0;
     margin: 20px 8px;
+    border-radius: 10px;
 }
 .color-box p{
     font-size: 2.0rem;
     /* margin: 20px 8px; */
     padding: 5px;
     color: #e3b047;
+}
+footer p{
+    font-size: 2.0rem;
+    margin: 20px 8px;
+    padding: 2px;
+    color: #939599;
 }
